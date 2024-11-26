@@ -1,0 +1,24 @@
+# Ignore target directory (build output)
+target/
+
+# Ignore Eclipse IDE project files
+*.classpath
+*.project
+*.settings/
+
+# Ignore IntelliJ IDEA project files
+.idea/
+
+# Ignore Maven wrapper files
+.mvn/
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+
+# Ignore build-related files (e.g., dependencies, and generated files)
+*.jar
+*.war
+*.ear
+
+test-output/
